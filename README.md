@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @FoxyGTPS
+- 👀 I’m interested in GTPS
+- 🌱 I’m currently learning C#
+- 💞️ I know how to code C++
